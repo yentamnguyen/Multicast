@@ -1,2 +1,2 @@
 # Multicast
-A simple GUI Multicast Chat
+A simple GUI Multicast Chat using Swing
